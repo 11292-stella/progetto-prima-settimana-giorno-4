@@ -33,7 +33,7 @@ body {
 /* ELEMENTI NEL MAIN - ARTICLE */
 #main {
     width: 350px;
-  height: 300px;
+  height: auto
   border: 1px solid black;
 
 background-color: rgb(225, 225, 230);
